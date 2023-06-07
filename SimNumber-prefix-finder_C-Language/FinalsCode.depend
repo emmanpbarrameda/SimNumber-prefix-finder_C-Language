@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610294829 source:d:\codeblocks files\projects\finalscode\finalscode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1686159155 source:d:\programming projects\codeblocks files\projects\act. 9 - finalscode - final exam\finalscode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
