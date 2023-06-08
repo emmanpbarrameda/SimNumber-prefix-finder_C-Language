@@ -1,15 +1,22 @@
-# SimCard Phone Number Prefix/Network Finder
-Simcard Number Prefix/Network Finder. A CONSOLE BASED NETWORK FINDER using C Language (CODE)
+<h1 align='center'> SimCard Phone Number Prefix/Network Finder </h1>
+
+<!-- tag line -->
+<h3 align='center'> Simcard Number Prefix/Network Finder.<br>A CONSOLE BASED NETWORK FINDER using C Language (CODE) </h3>
+
+<!-- primary badges -------------------------------------->
 <p align="center">
-  <!-- version -->
   
-  <img src='https://img.shields.io/github/commits-since/emmanpbarrameda/SimNumber-prefix-finder_C-Language/v1.svg' />
+  <!-- language -->
+  <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />  
   
-  ![Badge](https://img.shields.io/github/downloads/emmanpbarrameda/SimNumber-prefix-finder_C-Language/total.svg)
+  <!-- views -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femmanpbarrameda%2FSimNumber-prefix-finder_C-Language&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
+  
+  <!-- license -->
+  <img src='https://img.shields.io/github/license/emmanpbarrameda/SimNumber-prefix-finder_C-Language.svg?style=flat-square' />    
   
 </p>
 
-------------
 
 ### Console Output
 > - Video
@@ -68,7 +75,10 @@ SOFTWARE.
 
 ------------
 
-#
+
+
+## Get in touch
+
 <!-- Social -->
 <table width="100%" align="center">
   <tr>
@@ -89,23 +99,6 @@ SOFTWARE.
   </tr>
 </table>
 
-</br>
-
-##
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femmanpbarrameda%2FSimNumber-prefix-finder_C-Language&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a>
-</p>
-
-
-
-
-
-
-## Get in touch
 
 <a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
 &nbsp;&nbsp;
@@ -118,8 +111,6 @@ SOFTWARE.
 <a href="https://linkedin.com/in/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
-
-
 
 
 
