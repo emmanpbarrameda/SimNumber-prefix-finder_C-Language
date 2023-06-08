@@ -3,15 +3,9 @@ Simcard Number Prefix/Network Finder. A CONSOLE BASED NETWORK FINDER using C Lan
 <p align="center">
   <!-- version -->
   
-  <img src='https://img.shields.io/github/commits-since/emmanpbarrameda/SimNumber-prefix-finder_C-Language/{version}.svg' />
+  <img src='https://img.shields.io/github/commits-since/emmanpbarrameda/SimNumber-prefix-finder_C-Language/v1.svg' />
   
-  
-  
-  <!-- size -->
-  <img src='https://img.shields.io/bundlephobia/minzip/SimNumber-prefix-finder_C-Language?color=success&label=size' />
-  
-  <!-- downloads npm per week  -->
-  <img src='https://img.shields.io/github/downloads/emmanpbarrameda/SimNumber-prefix-finder_C-Language/total.svg' />
+  ![Badge](https://img.shields.io/github/downloads/emmanpbarrameda/SimNumber-prefix-finder_C-Language/total.svg)
   
 </p>
 
