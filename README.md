@@ -1,8 +1,78 @@
-# SimNumber-prefix-finder_C-Language
-Sim Number Prefix/Network Finder. A CONSOLE BASED NETWORK FINDER using C Language (CODE)
+# SimCard Phone Number Prefix/Network Finder
+Simcard Number Prefix/Network Finder. A CONSOLE BASED NETWORK FINDER using C Language (CODE)
+<p align="center">
+  <!-- version -->
+  
+  <img src='https://img.shields.io/github/commits-since/emmanpbarrameda/SimNumber-prefix-finder_C-Language/{version}.svg' />
+  
+  
+  
+  <!-- size -->
+  <img src='https://img.shields.io/bundlephobia/minzip/SimNumber-prefix-finder_C-Language?color=success&label=size' />
+  
+  <!-- downloads npm per week  -->
+  <img src='https://img.shields.io/github/downloads/emmanpbarrameda/SimNumber-prefix-finder_C-Language/total.svg' />
+  
+</p>
 
-## Video
-[console_video](https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/blob/main/SimNumber-prefix-finder_C-Language/output-media/console_video.mp4)
+------------
+
+### Console Output
+> - Video
+> <img src="https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/blob/main/SimNumber-prefix-finder_C-Language/output-media/console_video.gif">
+
+------------
+
+### **Features**
+> - Looping
+
+------------
+
+### **Technologies used**
+> - C Language
+> - CodeBlocks IDE
+
+------------
+
+### **Requirements**
+> - [CodeBlocks](https://sourceforge.net/projects/codeblocks/files/latest/download) IDE or any other C Language Compiler.
+
+------------
+
+### **Download Code**
+> - Download [here](https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/archive/refs/heads/main.zip).
+
+------------
+
+### **License**
+This project is licensed under MIT License. [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/blob/main/LICENSE)
+
+```txt
+MIT License
+
+Copyright (c) 2023 EMMAN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+
+------------
 
 #
 <!-- Social -->
