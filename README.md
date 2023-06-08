@@ -12,46 +12,51 @@
   <!-- views -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femmanpbarrameda%2FSimNumber-prefix-finder_C-Language&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
   
+  <!-- follow -->
+  <img src='https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow&maxAge=2592000' />      
+  
   <!-- license -->
   <img src='https://img.shields.io/github/license/emmanpbarrameda/SimNumber-prefix-finder_C-Language.svg?style=flat-square' />    
+  
+
   
 </p>
 
 
-### Console Output
-> - Video
-> <img src="https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/blob/main/SimNumber-prefix-finder_C-Language/output-media/console_video.gif">
+<!-- ------ -->
 
-------------
+## 💻 Console Output 
+- Video Preview
+<img src="https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/blob/main/SimNumber-prefix-finder_C-Language/output-media/console_video.gif">
+<br>
+<!-- ------ -->
 
-### **Features**
-> - Looping
+## 👨‍💻 **Features**
+- Auto Detect the Pressed Key
+- Looping
+- Cases
+<br>
+<!-- ------ -->
 
-------------
+## 💡 **Technologies used**
+- C Language
+- CodeBlocks IDE
+<br>
+<!-- ------ -->
 
-### **Technologies used**
-> - C Language
-> - CodeBlocks IDE
+## ⚙️ **Requirements**
+- [CodeBlocks](https://sourceforge.net/projects/codeblocks/files/latest/download) IDE or any other C Language Compiler.
+<br>
 
-------------
+<!-- ------ -->
 
-### **Requirements**
-> - [CodeBlocks](https://sourceforge.net/projects/codeblocks/files/latest/download) IDE or any other C Language Compiler.
-
-------------
-
-### **Download Code**
-> - Download [here](https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/archive/refs/heads/main.zip).
-
-------------
-
-### **License**
+## 📝 **License**
 This project is licensed under MIT License. [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/blob/main/LICENSE)
 
 ```txt
 MIT License
 
-Copyright (c) 2023 EMMAN
+Copyright (c) 2023 EMMANPBARRAMEDA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -72,9 +77,35 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+In short, the MIT License states:
+
+<b>Make sure to</b>:
+- <b>Give credit to the owner</b> if the project is recompiled or recoded.
+- This code is <b>free to use, modify, and distribute. No fees.</b>
+<br>
+
+
+<!-- ------ -->
+
+
+## 🚀 **Download Code**
+- Download [here](https://github.com/emmanpbarrameda/SimNumber-prefix-finder_C-Language/archive/refs/heads/main.zip)
+<br>
+
+<!-- ------ -->
+
+
+
+## :thumbsup: **If you want to say thank you and/or support the project:**
+1. Add a GitHub :star2:Star to the project.
+2. Tweet about the project on your [![Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+3. Support the project by donating via  [![Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmanpbarrameda)
+<br>
+
+<!-- ------ -->
+
 
 ------------
-
 
 
 ## Get in touch
@@ -100,17 +131,19 @@ SOFTWARE.
 </table>
 
 
-<a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
-&nbsp;&nbsp;
-<a href="mailto:emmanuelbarrameda1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%20-red?style=for-the-badge&logo=gmail"></a>
-&nbsp;&nbsp;
-<a href="https://facebook.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%20-blue?style=for-the-badge&logo=facebook"></a>
-&nbsp;&nbsp;
-<a href="https://t.me/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%20-blue?style=for-the-badge&logo=telegram"></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
+<p align="center">
+  <a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:emmanuelbarrameda1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%20-red?style=for-the-badge&logo=gmail"></a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%20-blue?style=for-the-badge&logo=facebook"></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%20-blue?style=for-the-badge&logo=telegram"></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
+</p>
 
 
 
